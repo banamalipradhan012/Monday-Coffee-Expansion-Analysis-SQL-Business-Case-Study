@@ -12,7 +12,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 
 
 
-## Key Questions
+## Business Problems 
 1. **Coffee Consumers Count**  
    How many people in each city are estimated to consume coffee, given that 25% of the population does?
 
